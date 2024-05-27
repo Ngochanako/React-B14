@@ -8,5 +8,6 @@ export default function App() {
       <B1 />
       <AdminPage/>
     </div>
+  
   )
 }
